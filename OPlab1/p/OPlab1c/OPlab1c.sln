@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "OPlab1c", "OPlab1c\OPlab1c.pyproj", "{FFEA2B33-0374-46D0-A7C6-C7F153C7F8BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFEA2B33-0374-46D0-A7C6-C7F153C7F8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFEA2B33-0374-46D0-A7C6-C7F153C7F8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FDD3A06-81D1-4FBF-AB66-6D0332D0E00E}
+	EndGlobalSection
+EndGlobal
