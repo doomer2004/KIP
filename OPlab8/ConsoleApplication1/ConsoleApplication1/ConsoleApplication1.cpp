@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int** input_matrix(int n);
+//int** input_matrix(int n);
 int** rand_matrix(int n);
 void print_matrix(int n, int** mat);
 void print_array(int n, int* arr);
@@ -16,6 +16,7 @@ int main()
     srand(time(NULL));
 
     int n;
+    cout << "The size of the matrix:";
     cin >> n;
 
     int** matr = rand_matrix(n);
@@ -28,21 +29,21 @@ int main()
     print_array(n, main_diag);
 
 }
-
-int** input_matrix(int n) {
-    int** mat = new int* [n];
-
-    for (int i = 0; i < n; i++) {
-        int* arr = new int[n];
-
-        for (int j = 0; j < n; j++)
-            cin >> arr[j];
-
-        mat[i] = arr;
-    }
-    cout << '\n';
-    return mat;
-}
+//
+//int** input_matrix(int n) {
+//    int** mat = new int* [n];
+//
+//    for (int i = 0; i < n; i++) {
+//        int* arr = new int[n];
+//
+//        for (int j = 0; j < n; j++)
+//            cin >> arr[j];
+//
+//        mat[i] = arr;
+//    }
+//    cout << '\n';
+//    return mat;
+//}
 
 int** rand_matrix(int n) {
     int** mat = new int* [n];
@@ -51,7 +52,7 @@ int** rand_matrix(int n) {
         int* arr = new int[n];
 
         for (int j = 0; j < n; j++)
-            arr[j] = rand() % 21 - 10;
+            arr[j] = rand() % 101;
 
         mat[i] = arr;
     }
@@ -89,6 +90,7 @@ void sort(int n, int** arr) {
         }
     }
 }
+
 
 int* main_diagonal(int n, int** matr) {
     int* arr = new int[n];

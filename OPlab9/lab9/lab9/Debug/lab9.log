@@ -1,0 +1,4 @@
+﻿  lab9.cpp
+C:\Users\HP\Desktop\KPI\OP\OPlab9\lab9\lab9\lab9.cpp(34,41): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\Desktop\KPI\OP\OPlab9\lab9\lab9\lab9.cpp(55,23): warning C4018: <: несоответствие типов со знаком и без знака
+  lab9.vcxproj -> C:\Users\HP\Desktop\KPI\OP\OPlab9\lab9\Debug\lab9.exe
