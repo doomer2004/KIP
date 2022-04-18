@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\OPlab2.2\OPlab2.2\obj\Debug\OPlab2.2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\OPlab2.2\OPlab2.2\obj\Debug\OPlab2.2.csproj.CoreCompileInputs.cache
