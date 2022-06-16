@@ -1,0 +1,6 @@
+C:\Users\Danik\RiderProjects\OPlab2.6\OPlab2.6\obj\Debug\OPlab2.6.csprojAssemblyReference.cache
+C:\Users\Danik\RiderProjects\OPlab2.6\OPlab2.6\obj\Debug\OPlab2.6.csproj.CoreCompileInputs.cache
+C:\Users\Danik\RiderProjects\OPlab2.6\OPlab2.6\bin\Debug\OPlab2._6.exe
+C:\Users\Danik\RiderProjects\OPlab2.6\OPlab2.6\bin\Debug\OPlab2._6.pdb
+C:\Users\Danik\RiderProjects\OPlab2.6\OPlab2.6\obj\Debug\OPlab2._6.exe
+C:\Users\Danik\RiderProjects\OPlab2.6\OPlab2.6\obj\Debug\OPlab2._6.pdb
