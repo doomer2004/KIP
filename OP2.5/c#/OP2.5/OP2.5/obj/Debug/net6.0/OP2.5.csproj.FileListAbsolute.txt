@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\KPI\OP2\KPI\OP2.5\c#\OP2.5\OP2.5\bin\Debug\net6.0\OP2.5.exe
+C:\Users\HP\Desktop\KPI\OP2\KPI\OP2.5\c#\OP2.5\OP2.5\bin\Debug\net6.0\OP2.5.deps.json
+C:\Users\HP\Desktop\KPI\OP2\KPI\OP2.5\c#\OP2.5\OP2.5\bin\Debug\net6.0\OP2.5.runtimeconfig.json
+C:\Users\HP\Desktop\KPI\OP2\KPI\OP2.5\c#\OP2.5\OP2.5\bin\Debug\net6.0\OP2.5.dll
+C:\Users\HP\Desktop\KPI\OP2\KPI\OP2.5\c#\OP2.5\OP2.5\bin\Debug\net6.0\OP2.5.pdb
+C:\Users\HP\Desktop\KPI\OP2\KPI\OP2.5\c#\OP2.5\OP2.5\obj\Debug\net6.0\OP2.5.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\KPI\OP2\KPI\OP2.5\c#\OP2.5\OP2.5\obj\Debug\net6.0\OP2.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\KPI\OP2\KPI\OP2.5\c#\OP2.5\OP2.5\obj\Debug\net6.0\OP2.5.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\KPI\OP2\KPI\OP2.5\c#\OP2.5\OP2.5\obj\Debug\net6.0\OP2.5.AssemblyInfo.cs
+C:\Users\HP\Desktop\KPI\OP2\KPI\OP2.5\c#\OP2.5\OP2.5\obj\Debug\net6.0\OP2.5.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\KPI\OP2\KPI\OP2.5\c#\OP2.5\OP2.5\obj\Debug\net6.0\OP2.5.dll
+C:\Users\HP\Desktop\KPI\OP2\KPI\OP2.5\c#\OP2.5\OP2.5\obj\Debug\net6.0\refint\OP2.5.dll
+C:\Users\HP\Desktop\KPI\OP2\KPI\OP2.5\c#\OP2.5\OP2.5\obj\Debug\net6.0\OP2.5.pdb
+C:\Users\HP\Desktop\KPI\OP2\KPI\OP2.5\c#\OP2.5\OP2.5\obj\Debug\net6.0\OP2.5.genruntimeconfig.cache
+C:\Users\HP\Desktop\KPI\OP2\KPI\OP2.5\c#\OP2.5\OP2.5\obj\Debug\net6.0\ref\OP2.5.dll
